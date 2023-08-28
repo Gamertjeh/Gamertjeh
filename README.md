@@ -71,7 +71,7 @@ welcome to my GitHub Page. I am Pieter Bjorn, I learn new things about programmi
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ce2d43cf-8b55-46c6-a741-a88c3677baab/fdce2eec-e452-49d5-a683-c9aec817ebd9.png" /></a>
+   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ce2d43cf-8b55-46c6-a741-a88c3677baab/681dcd01-4f8f-45f5-b4e5-7066f35a908d.png" /></a>
   <br/>
 
 </details>
